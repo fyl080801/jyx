@@ -6,7 +6,7 @@ import com.sun.jna.Pointer;
 import com.sun.jna.win32.StdCallLibrary.StdCallCallback;
 
 public class LedInterface {
-
+	
 	public static LedContrl getLedContrl() {
 		// NativeLibrary.addSearchPath("LedContrl", "\\");
 		// NativeLibrary.addSearchPath("LedContrl.class",
